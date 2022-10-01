@@ -1,0 +1,31 @@
+<!html Doc>
+<head>
+<meta charset ="utf-8>
+<title>This is my Personal Page</title>
+</head
+<body>
+<img src="" alt= "THis is sample image">
+
+<p><em> Founder and CTO of<string> <a href ="http://www.appbrawery.com">The appbrawery </a></st>
+<p> I am an i OS Developer </P>
+<p> This will be a link <a href = "www.google.com" > This is a Link  </a>
+<hr>
+
+
+<ul>
+  <li>The iOs Development Camp </li>
+  <li> The Complete Web Development Camp</li>
+</ul
+
+<tr>
+  <td>2012-2012</td>
+  <td>2014-2016</td>
+</tr>
+
+<tr>
+  <td> Researcher at the  iNsTituTe of cOgNiTiVe nEuRoScIeNce" </td>
+  <td> 2005 </td
+
+</tr
+
+</body>
